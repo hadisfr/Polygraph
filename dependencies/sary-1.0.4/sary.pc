@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Sary
+Description: a suffix array library
+Version: 1.0.4
+Libs: -L${libdir} -lsary -L/usr/lib -lgthread -lglib -lpthread
+Cflags: -I${includedir} -I/usr/include/glib-1.2 -I/usr/lib/glib/include -D_REENTRANT

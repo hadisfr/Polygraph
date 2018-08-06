@@ -1,0 +1,3 @@
+* Support Multi-threading for block sorting and merging.
+* Implement limited approximate searchs.
+* Implement limited regular expression searchs.
