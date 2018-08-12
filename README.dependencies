@@ -28,11 +28,17 @@ License: LGPL
 http://sary.sourceforge.net/
 *NOTE: you need to apply the included patch!*
 
-pylibpcap: python bindings for libpcap
-version 0.4
-Author: 
-License: BSD
-http://sourceforge.net/projects/pylibpcap/
+pcapy: a Python extension module that interfaces with the libpcap packet capture library
+version
+Author:
+License: Apache (modified)
+https://github.com/CoreSecurity/pcapy
+
+impacket: a collection of Python classes for working with network protocols
+version
+Author:
+License: Apache (modified)
+https://github.com/CoreSecurity/impacket
 
 **************************************************************************
 These are polymorphic engines used in some of the included experiments.
