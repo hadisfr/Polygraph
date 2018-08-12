@@ -1,0 +1,6 @@
+[submodule "dependencies/pycapy"]
+	path = dependencies/pycapy
+	url = https://github.com/CoreSecurity/pcapy.git
+[submodule "dependencies/impacket"]
+	path = dependencies/impacket
+	url = https://github.com/CoreSecurity/impacket
